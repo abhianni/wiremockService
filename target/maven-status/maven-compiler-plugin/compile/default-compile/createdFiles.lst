@@ -1,0 +1,3 @@
+com\mmt\wiremock\server\ServerSetup.class
+com\mmt\wiremock\transformers\BodyTransformer.class
+com\mmt\wiremock\WiremockServiceApplication.class
